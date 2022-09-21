@@ -7,9 +7,3 @@ public class Main {
         System.out.println(mesaj + ogrenciSayisi);
         System.out.println("Öğrenci Sayım : "+ ogrenciSayisi);
         System.out.println("Öğrenci Sayım : "+ ogrenciSayisi);
-
-
-    }
-}
-
-
